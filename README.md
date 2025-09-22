@@ -1,3 +1,3 @@
 # HttpServerinC-fromscratch
 
-Building an HTTP server in ac from scratch.
+Building a TCP server in C from scratch.
